@@ -17,3 +17,6 @@ Ticket booking, real-time availability, secure payment processing, profile manag
 
 # Testing:
 Mention unit, integration, UAT, and performance testing.
+
+ # SCRUM:
+ https://ticketarena.atlassian.net/jira/software/projects/SCRUM/boards/1?sprintStarted=true
